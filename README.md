@@ -1,1 +1,1 @@
-# k2-agentic
+# kc2-agentic
